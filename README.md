@@ -35,7 +35,7 @@ Insights
 5.Gender has minimal impact on tipping behavior.
 6.Smoking status shows no significant influence on tip amounts.
 
-🔹 Conclusion
+Conclusion
 
 The exploratory data analysis of the Tips dataset shows that tipping behavior is mainly influenced by the total bill amount and the time of dining. Customers generally give higher tips during dinner, especially on weekends, which is likely due to larger bills and group dining. Group size also has a noticeable effect on the total tip amount, while factors such as gender and smoking status have very little impact. Overall, this project demonstrates how EDA helps uncover meaningful patterns in customer behavior and supports data-driven decision making.
 
